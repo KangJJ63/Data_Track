@@ -11,3 +11,8 @@ class Person:
         self.age = age
     def __str__(self):
         return f"이름 : {self.name}, 나이 : {self.age}"
+if __name__ == "__main__":   
+    print("my_module's __name__:",__name__)
+    print(greet("이름"))
+    p = Person("이영수",10)
+    print(p)
