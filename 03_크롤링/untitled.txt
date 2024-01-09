@@ -1,0 +1,1 @@
+#content > div.article > div.section > div.news_area._replaceNewsLink > div > ul > li > span > a
